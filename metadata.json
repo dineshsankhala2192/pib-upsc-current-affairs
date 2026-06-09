@@ -1,0 +1,6 @@
+{
+  "name": "PIB UPSC current Affairs",
+  "description": "Daily UPSC Current Affairs analysis from PIB, The Hindu, and TOI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
